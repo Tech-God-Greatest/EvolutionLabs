@@ -1,0 +1,962 @@
+[
+  {
+    "id": 1,
+    "tick": 0,
+    "time": 0.0,
+    "generation": 0.0,
+    "kind": "species_emerged",
+    "text": "Species 'Kikupin' emerged",
+    "severity": 1,
+    "data": {
+      "species_id": 1,
+      "name": "Kikupin",
+      "parent": null
+    }
+  },
+  {
+    "id": 2,
+    "tick": 0,
+    "time": 0.0,
+    "generation": 0.0,
+    "kind": "species_emerged",
+    "text": "Species 'Piakry' emerged",
+    "severity": 1,
+    "data": {
+      "species_id": 2,
+      "name": "Piakry",
+      "parent": null
+    }
+  },
+  {
+    "id": 3,
+    "tick": 0,
+    "time": 0.0,
+    "generation": 0.0,
+    "kind": "species_emerged",
+    "text": "Species 'Lysiix' emerged",
+    "severity": 1,
+    "data": {
+      "species_id": 3,
+      "name": "Lysiix",
+      "parent": null
+    }
+  },
+  {
+    "id": 4,
+    "tick": 0,
+    "time": 0.0,
+    "generation": 0.0,
+    "kind": "species_emerged",
+    "text": "Species 'Zetei' emerged",
+    "severity": 1,
+    "data": {
+      "species_id": 4,
+      "name": "Zetei",
+      "parent": null
+    }
+  },
+  {
+    "id": 5,
+    "tick": 0,
+    "time": 0.0,
+    "generation": 0.0,
+    "kind": "species_emerged",
+    "text": "Species 'Zathyar' emerged",
+    "severity": 1,
+    "data": {
+      "species_id": 5,
+      "name": "Zathyar",
+      "parent": null
+    }
+  },
+  {
+    "id": 6,
+    "tick": 0,
+    "time": 0.0,
+    "generation": 0.0,
+    "kind": "species_emerged",
+    "text": "Species 'Kiazianyi' emerged",
+    "severity": 1,
+    "data": {
+      "species_id": 6,
+      "name": "Kiazianyi",
+      "parent": null
+    }
+  },
+  {
+    "id": 7,
+    "tick": 0,
+    "time": 0.0,
+    "generation": 0.0,
+    "kind": "species_emerged",
+    "text": "Species 'Teleiix' emerged",
+    "severity": 1,
+    "data": {
+      "species_id": 7,
+      "name": "Teleiix",
+      "parent": null
+    }
+  },
+  {
+    "id": 8,
+    "tick": 0,
+    "time": 0.0,
+    "generation": 0.0,
+    "kind": "species_emerged",
+    "text": "Species 'Theixura' emerged",
+    "severity": 1,
+    "data": {
+      "species_id": 8,
+      "name": "Theixura",
+      "parent": null
+    }
+  },
+  {
+    "id": 9,
+    "tick": 0,
+    "time": 0.0,
+    "generation": 0.0,
+    "kind": "species_emerged",
+    "text": "Species 'Losaex' emerged",
+    "severity": 1,
+    "data": {
+      "species_id": 9,
+      "name": "Losaex",
+      "parent": null
+    }
+  },
+  {
+    "id": 10,
+    "tick": 0,
+    "time": 0.0,
+    "generation": 0.0,
+    "kind": "species_emerged",
+    "text": "Species 'Nyubreisy' emerged",
+    "severity": 1,
+    "data": {
+      "species_id": 10,
+      "name": "Nyubreisy",
+      "parent": null
+    }
+  },
+  {
+    "id": 11,
+    "tick": 0,
+    "time": 0.0,
+    "generation": 0.0,
+    "kind": "species_emerged",
+    "text": "Species 'Pumolera' emerged",
+    "severity": 1,
+    "data": {
+      "species_id": 11,
+      "name": "Pumolera",
+      "parent": null
+    }
+  },
+  {
+    "id": 12,
+    "tick": 0,
+    "time": 0.0,
+    "generation": 0.0,
+    "kind": "species_emerged",
+    "text": "Species 'Roteileii' emerged",
+    "severity": 1,
+    "data": {
+      "species_id": 12,
+      "name": "Roteileii",
+      "parent": null
+    }
+  },
+  {
+    "id": 13,
+    "tick": 0,
+    "time": 0.0,
+    "generation": 0.0,
+    "kind": "species_emerged",
+    "text": "Species 'Braleiith' emerged",
+    "severity": 1,
+    "data": {
+      "species_id": 13,
+      "name": "Braleiith",
+      "parent": null
+    }
+  },
+  {
+    "id": 14,
+    "tick": 0,
+    "time": 0.0,
+    "generation": 0.0,
+    "kind": "species_emerged",
+    "text": "Species 'Naeveiwei' emerged",
+    "severity": 1,
+    "data": {
+      "species_id": 14,
+      "name": "Naeveiwei",
+      "parent": null
+    }
+  },
+  {
+    "id": 15,
+    "tick": 0,
+    "time": 0.0,
+    "generation": 0.0,
+    "kind": "species_emerged",
+    "text": "Species 'Nyaenyuit' emerged",
+    "severity": 1,
+    "data": {
+      "species_id": 15,
+      "name": "Nyaenyuit",
+      "parent": null
+    }
+  },
+  {
+    "id": 16,
+    "tick": 0,
+    "time": 0.0,
+    "generation": 0.0,
+    "kind": "species_emerged",
+    "text": "Species 'Riamiaar' emerged",
+    "severity": 1,
+    "data": {
+      "species_id": 16,
+      "name": "Riamiaar",
+      "parent": null
+    }
+  },
+  {
+    "id": 17,
+    "tick": 0,
+    "time": 0.0,
+    "generation": 0.0,
+    "kind": "species_emerged",
+    "text": "Species 'Veipijaee' emerged",
+    "severity": 1,
+    "data": {
+      "species_id": 17,
+      "name": "Veipijaee",
+      "parent": null
+    }
+  },
+  {
+    "id": 18,
+    "tick": 0,
+    "time": 0.0,
+    "generation": 0.0,
+    "kind": "species_emerged",
+    "text": "Species 'Konagiex' emerged",
+    "severity": 1,
+    "data": {
+      "species_id": 18,
+      "name": "Konagiex",
+      "parent": null
+    }
+  },
+  {
+    "id": 19,
+    "tick": 0,
+    "time": 0.0,
+    "generation": 0.0,
+    "kind": "species_emerged",
+    "text": "Species 'Vuthagaea' emerged",
+    "severity": 1,
+    "data": {
+      "species_id": 19,
+      "name": "Vuthagaea",
+      "parent": null
+    }
+  },
+  {
+    "id": 20,
+    "tick": 0,
+    "time": 0.0,
+    "generation": 0.0,
+    "kind": "species_emerged",
+    "text": "Species 'Xaexyk' emerged",
+    "severity": 1,
+    "data": {
+      "species_id": 20,
+      "name": "Xaexyk",
+      "parent": null
+    }
+  },
+  {
+    "id": 21,
+    "tick": 0,
+    "time": 0.0,
+    "generation": 0.0,
+    "kind": "species_emerged",
+    "text": "Species 'Lynyia' emerged",
+    "severity": 1,
+    "data": {
+      "species_id": 21,
+      "name": "Lynyia",
+      "parent": null
+    }
+  },
+  {
+    "id": 22,
+    "tick": 0,
+    "time": 0.0,
+    "generation": 0.0,
+    "kind": "species_emerged",
+    "text": "Species 'Meibreon' emerged",
+    "severity": 1,
+    "data": {
+      "species_id": 22,
+      "name": "Meibreon",
+      "parent": null
+    }
+  },
+  {
+    "id": 23,
+    "tick": 0,
+    "time": 0.0,
+    "generation": 0.0,
+    "kind": "species_emerged",
+    "text": "Species 'Faejas' emerged",
+    "severity": 1,
+    "data": {
+      "species_id": 23,
+      "name": "Faejas",
+      "parent": null
+    }
+  },
+  {
+    "id": 24,
+    "tick": 0,
+    "time": 0.0,
+    "generation": 0.0,
+    "kind": "species_emerged",
+    "text": "Species 'Thefotia' emerged",
+    "severity": 1,
+    "data": {
+      "species_id": 24,
+      "name": "Thefotia",
+      "parent": null
+    }
+  },
+  {
+    "id": 25,
+    "tick": 0,
+    "time": 0.0,
+    "generation": 0.0,
+    "kind": "species_emerged",
+    "text": "Species 'Laekeiix' emerged",
+    "severity": 1,
+    "data": {
+      "species_id": 25,
+      "name": "Laekeiix",
+      "parent": null
+    }
+  },
+  {
+    "id": 26,
+    "tick": 0,
+    "time": 0.0,
+    "generation": 0.0,
+    "kind": "species_emerged",
+    "text": "Species 'Luqix' emerged",
+    "severity": 1,
+    "data": {
+      "species_id": 26,
+      "name": "Luqix",
+      "parent": null
+    }
+  },
+  {
+    "id": 27,
+    "tick": 20,
+    "time": 2.0000000000000004,
+    "generation": 0.031476997578692496,
+    "kind": "behavior_discovery",
+    "text": "First active predator behavior observed in generation 0",
+    "severity": 3,
+    "data": {
+      "generation": 0
+    }
+  },
+  {
+    "id": 28,
+    "tick": 103,
+    "time": 10.29999999999998,
+    "generation": 0.1763085399449036,
+    "kind": "species_dominant",
+    "text": "Species 'Pumolera' surpassed Nyubreisy as dominant with 177 individuals",
+    "severity": 2,
+    "data": {
+      "new_dominant": 11,
+      "old_dominant": 10
+    }
+  },
+  {
+    "id": 29,
+    "tick": 165,
+    "time": 16.499999999999964,
+    "generation": 0.19641626464507236,
+    "kind": "behavior_discovery",
+    "text": "Coordinated group/pack social behavior detected in generation 0",
+    "severity": 2,
+    "data": {
+      "generation": 0
+    }
+  },
+  {
+    "id": 30,
+    "tick": 205,
+    "time": 20.50000000000002,
+    "generation": 0.2114047287899861,
+    "kind": "species_extinct",
+    "text": "Species 'Laekeiix' went extinct after reaching peak population 1",
+    "severity": 2,
+    "data": {
+      "species_id": 25,
+      "peak_pop": 1
+    }
+  },
+  {
+    "id": 31,
+    "tick": 205,
+    "time": 20.50000000000002,
+    "generation": 0.2114047287899861,
+    "kind": "species_dominant",
+    "text": "Species 'Riamiaar' surpassed Pumolera as dominant with 182 individuals",
+    "severity": 2,
+    "data": {
+      "new_dominant": 16,
+      "old_dominant": 11
+    }
+  },
+  {
+    "id": 32,
+    "tick": 225,
+    "time": 22.50000000000005,
+    "generation": 0.21644413211524946,
+    "kind": "species_extinct",
+    "text": "Species 'Laekeiix' went extinct after reaching peak population 1",
+    "severity": 2,
+    "data": {
+      "species_id": 25,
+      "peak_pop": 1
+    }
+  },
+  {
+    "id": 33,
+    "tick": 245,
+    "time": 24.500000000000078,
+    "generation": 0.21469740634005763,
+    "kind": "species_extinct",
+    "text": "Species 'Laekeiix' went extinct after reaching peak population 1",
+    "severity": 2,
+    "data": {
+      "species_id": 25,
+      "peak_pop": 1
+    }
+  },
+  {
+    "id": 34,
+    "tick": 265,
+    "time": 26.500000000000107,
+    "generation": 0.21512481644640236,
+    "kind": "species_extinct",
+    "text": "Species 'Theixura' went extinct after reaching peak population 1",
+    "severity": 2,
+    "data": {
+      "species_id": 8,
+      "peak_pop": 1
+    }
+  },
+  {
+    "id": 35,
+    "tick": 265,
+    "time": 26.500000000000107,
+    "generation": 0.21512481644640236,
+    "kind": "species_extinct",
+    "text": "Species 'Losaex' went extinct after reaching peak population 1",
+    "severity": 2,
+    "data": {
+      "species_id": 9,
+      "peak_pop": 1
+    }
+  },
+  {
+    "id": 36,
+    "tick": 285,
+    "time": 28.500000000000135,
+    "generation": 0.21607278241091737,
+    "kind": "species_extinct",
+    "text": "Species 'Theixura' went extinct after reaching peak population 1",
+    "severity": 2,
+    "data": {
+      "species_id": 8,
+      "peak_pop": 1
+    }
+  },
+  {
+    "id": 37,
+    "tick": 285,
+    "time": 28.500000000000135,
+    "generation": 0.21607278241091737,
+    "kind": "species_extinct",
+    "text": "Species 'Losaex' went extinct after reaching peak population 1",
+    "severity": 2,
+    "data": {
+      "species_id": 9,
+      "peak_pop": 1
+    }
+  },
+  {
+    "id": 38,
+    "tick": 365,
+    "time": 36.50000000000025,
+    "generation": 0.2353463587921847,
+    "kind": "species_extinct",
+    "text": "Species 'Zetei' went extinct after reaching peak population 2",
+    "severity": 2,
+    "data": {
+      "species_id": 4,
+      "peak_pop": 2
+    }
+  },
+  {
+    "id": 39,
+    "tick": 365,
+    "time": 36.50000000000025,
+    "generation": 0.2353463587921847,
+    "kind": "species_extinct",
+    "text": "Species 'Kiazianyi' went extinct after reaching peak population 1",
+    "severity": 2,
+    "data": {
+      "species_id": 6,
+      "peak_pop": 1
+    }
+  },
+  {
+    "id": 40,
+    "tick": 385,
+    "time": 38.50000000000028,
+    "generation": 0.23973880597014927,
+    "kind": "species_extinct",
+    "text": "Species 'Zetei' went extinct after reaching peak population 2",
+    "severity": 2,
+    "data": {
+      "species_id": 4,
+      "peak_pop": 2
+    }
+  },
+  {
+    "id": 41,
+    "tick": 385,
+    "time": 38.50000000000028,
+    "generation": 0.23973880597014927,
+    "kind": "species_extinct",
+    "text": "Species 'Kiazianyi' went extinct after reaching peak population 1",
+    "severity": 2,
+    "data": {
+      "species_id": 6,
+      "peak_pop": 1
+    }
+  },
+  {
+    "id": 42,
+    "tick": 405,
+    "time": 40.500000000000306,
+    "generation": 0.24828263002944062,
+    "kind": "species_dominant",
+    "text": "Species 'Braleiith' surpassed Riamiaar as dominant with 158 individuals",
+    "severity": 2,
+    "data": {
+      "new_dominant": 13,
+      "old_dominant": 16
+    }
+  },
+  {
+    "id": 43,
+    "tick": 465,
+    "time": 46.50000000000039,
+    "generation": 0.2759433962264151,
+    "kind": "species_extinct",
+    "text": "Species 'Faejas' went extinct after reaching peak population 1",
+    "severity": 2,
+    "data": {
+      "species_id": 23,
+      "peak_pop": 1
+    }
+  },
+  {
+    "id": 44,
+    "tick": 485,
+    "time": 48.50000000000042,
+    "generation": 0.2933832709113608,
+    "kind": "species_extinct",
+    "text": "Species 'Faejas' went extinct after reaching peak population 1",
+    "severity": 2,
+    "data": {
+      "species_id": 23,
+      "peak_pop": 1
+    }
+  },
+  {
+    "id": 45,
+    "tick": 505,
+    "time": 50.50000000000045,
+    "generation": 0.30186170212765956,
+    "kind": "species_extinct",
+    "text": "Species 'Kikupin' went extinct after reaching peak population 59",
+    "severity": 2,
+    "data": {
+      "species_id": 1,
+      "peak_pop": 59
+    }
+  },
+  {
+    "id": 46,
+    "tick": 505,
+    "time": 50.50000000000045,
+    "generation": 0.30186170212765956,
+    "kind": "species_extinct",
+    "text": "Species 'Teleiix' went extinct after reaching peak population 1",
+    "severity": 2,
+    "data": {
+      "species_id": 7,
+      "peak_pop": 1
+    }
+  },
+  {
+    "id": 47,
+    "tick": 525,
+    "time": 52.500000000000476,
+    "generation": 0.3286908077994429,
+    "kind": "species_extinct",
+    "text": "Species 'Kikupin' went extinct after reaching peak population 59",
+    "severity": 2,
+    "data": {
+      "species_id": 1,
+      "peak_pop": 59
+    }
+  },
+  {
+    "id": 48,
+    "tick": 525,
+    "time": 52.500000000000476,
+    "generation": 0.3286908077994429,
+    "kind": "species_extinct",
+    "text": "Species 'Teleiix' went extinct after reaching peak population 1",
+    "severity": 2,
+    "data": {
+      "species_id": 7,
+      "peak_pop": 1
+    }
+  },
+  {
+    "id": 49,
+    "tick": 545,
+    "time": 54.500000000000504,
+    "generation": 0.3387815750371471,
+    "kind": "species_extinct",
+    "text": "Species 'Kikupin' went extinct after reaching peak population 59",
+    "severity": 2,
+    "data": {
+      "species_id": 1,
+      "peak_pop": 59
+    }
+  },
+  {
+    "id": 50,
+    "tick": 545,
+    "time": 54.500000000000504,
+    "generation": 0.3387815750371471,
+    "kind": "species_extinct",
+    "text": "Species 'Teleiix' went extinct after reaching peak population 1",
+    "severity": 2,
+    "data": {
+      "species_id": 7,
+      "peak_pop": 1
+    }
+  },
+  {
+    "id": 51,
+    "tick": 565,
+    "time": 56.50000000000053,
+    "generation": 0.3584,
+    "kind": "species_extinct",
+    "text": "Species 'Thefotia' went extinct after reaching peak population 1",
+    "severity": 2,
+    "data": {
+      "species_id": 24,
+      "peak_pop": 1
+    }
+  },
+  {
+    "id": 52,
+    "tick": 585,
+    "time": 58.50000000000056,
+    "generation": 0.39565943238731216,
+    "kind": "species_extinct",
+    "text": "Species 'Thefotia' went extinct after reaching peak population 1",
+    "severity": 2,
+    "data": {
+      "species_id": 24,
+      "peak_pop": 1
+    }
+  },
+  {
+    "id": 53,
+    "tick": 605,
+    "time": 60.50000000000059,
+    "generation": 0.44181818181818183,
+    "kind": "species_extinct",
+    "text": "Species 'Zathyar' went extinct after reaching peak population 27",
+    "severity": 2,
+    "data": {
+      "species_id": 5,
+      "peak_pop": 27
+    }
+  },
+  {
+    "id": 54,
+    "tick": 605,
+    "time": 60.50000000000059,
+    "generation": 0.44181818181818183,
+    "kind": "species_extinct",
+    "text": "Species 'Xaexyk' went extinct after reaching peak population 4",
+    "severity": 2,
+    "data": {
+      "species_id": 20,
+      "peak_pop": 4
+    }
+  },
+  {
+    "id": 55,
+    "tick": 625,
+    "time": 62.50000000000062,
+    "generation": 0.47470817120622566,
+    "kind": "species_extinct",
+    "text": "Species 'Zathyar' went extinct after reaching peak population 27",
+    "severity": 2,
+    "data": {
+      "species_id": 5,
+      "peak_pop": 27
+    }
+  },
+  {
+    "id": 56,
+    "tick": 625,
+    "time": 62.50000000000062,
+    "generation": 0.47470817120622566,
+    "kind": "species_extinct",
+    "text": "Species 'Xaexyk' went extinct after reaching peak population 4",
+    "severity": 2,
+    "data": {
+      "species_id": 20,
+      "peak_pop": 4
+    }
+  },
+  {
+    "id": 57,
+    "tick": 646,
+    "time": 64.6000000000006,
+    "generation": 0.5040322580645161,
+    "kind": "species_extinct",
+    "text": "Species 'Zathyar' went extinct after reaching peak population 27",
+    "severity": 2,
+    "data": {
+      "species_id": 5,
+      "peak_pop": 27
+    }
+  },
+  {
+    "id": 58,
+    "tick": 646,
+    "time": 64.6000000000006,
+    "generation": 0.5040322580645161,
+    "kind": "species_extinct",
+    "text": "Species 'Xaexyk' went extinct after reaching peak population 4",
+    "severity": 2,
+    "data": {
+      "species_id": 20,
+      "peak_pop": 4
+    }
+  },
+  {
+    "id": 59,
+    "tick": 709,
+    "time": 70.90000000000025,
+    "generation": 0.6221719457013575,
+    "kind": "species_extinct",
+    "text": "Species 'Piakry' went extinct after reaching peak population 38",
+    "severity": 2,
+    "data": {
+      "species_id": 2,
+      "peak_pop": 38
+    }
+  },
+  {
+    "id": 60,
+    "tick": 730,
+    "time": 73.00000000000013,
+    "generation": 0.6832151300236406,
+    "kind": "species_extinct",
+    "text": "Species 'Piakry' went extinct after reaching peak population 38",
+    "severity": 2,
+    "data": {
+      "species_id": 2,
+      "peak_pop": 38
+    }
+  },
+  {
+    "id": 61,
+    "tick": 751,
+    "time": 75.10000000000001,
+    "generation": 0.7153284671532847,
+    "kind": "species_extinct",
+    "text": "Species 'Lysiix' went extinct after reaching peak population 62",
+    "severity": 2,
+    "data": {
+      "species_id": 3,
+      "peak_pop": 62
+    }
+  },
+  {
+    "id": 62,
+    "tick": 772,
+    "time": 77.19999999999989,
+    "generation": 0.7605985037406484,
+    "kind": "species_extinct",
+    "text": "Species 'Lysiix' went extinct after reaching peak population 62",
+    "severity": 2,
+    "data": {
+      "species_id": 3,
+      "peak_pop": 62
+    }
+  },
+  {
+    "id": 63,
+    "tick": 793,
+    "time": 79.29999999999977,
+    "generation": 0.8209718670076727,
+    "kind": "species_extinct",
+    "text": "Species 'Lysiix' went extinct after reaching peak population 62",
+    "severity": 2,
+    "data": {
+      "species_id": 3,
+      "peak_pop": 62
+    }
+  },
+  {
+    "id": 64,
+    "tick": 814,
+    "time": 81.39999999999965,
+    "generation": 0.8733153638814016,
+    "kind": "species_extinct",
+    "text": "Species 'Konagiex' went extinct after reaching peak population 132",
+    "severity": 2,
+    "data": {
+      "species_id": 18,
+      "peak_pop": 132
+    }
+  },
+  {
+    "id": 65,
+    "tick": 835,
+    "time": 83.49999999999953,
+    "generation": 0.8986301369863013,
+    "kind": "species_extinct",
+    "text": "Species 'Konagiex' went extinct after reaching peak population 132",
+    "severity": 2,
+    "data": {
+      "species_id": 18,
+      "peak_pop": 132
+    }
+  },
+  {
+    "id": 66,
+    "tick": 961,
+    "time": 96.09999999999881,
+    "generation": 1.1715116279069768,
+    "kind": "species_extinct",
+    "text": "Species 'Nyaenyuit' went extinct after reaching peak population 138",
+    "severity": 2,
+    "data": {
+      "species_id": 15,
+      "peak_pop": 138
+    }
+  },
+  {
+    "id": 67,
+    "tick": 961,
+    "time": 96.09999999999881,
+    "generation": 1.1715116279069768,
+    "kind": "species_extinct",
+    "text": "Species 'Meibreon' went extinct after reaching peak population 2",
+    "severity": 2,
+    "data": {
+      "species_id": 22,
+      "peak_pop": 2
+    }
+  },
+  {
+    "id": 68,
+    "tick": 961,
+    "time": 96.09999999999881,
+    "generation": 1.1715116279069768,
+    "kind": "species_extinct",
+    "text": "Species 'Luqix' went extinct after reaching peak population 1",
+    "severity": 2,
+    "data": {
+      "species_id": 26,
+      "peak_pop": 1
+    }
+  },
+  {
+    "id": 69,
+    "tick": 982,
+    "time": 98.1999999999987,
+    "generation": 1.2123893805309736,
+    "kind": "species_extinct",
+    "text": "Species 'Nyaenyuit' went extinct after reaching peak population 138",
+    "severity": 2,
+    "data": {
+      "species_id": 15,
+      "peak_pop": 138
+    }
+  },
+  {
+    "id": 70,
+    "tick": 982,
+    "time": 98.1999999999987,
+    "generation": 1.2123893805309736,
+    "kind": "species_extinct",
+    "text": "Species 'Meibreon' went extinct after reaching peak population 2",
+    "severity": 2,
+    "data": {
+      "species_id": 22,
+      "peak_pop": 2
+    }
+  },
+  {
+    "id": 71,
+    "tick": 982,
+    "time": 98.1999999999987,
+    "generation": 1.2123893805309736,
+    "kind": "species_extinct",
+    "text": "Species 'Luqix' went extinct after reaching peak population 1",
+    "severity": 2,
+    "data": {
+      "species_id": 26,
+      "peak_pop": 1
+    }
+  },
+  {
+    "id": 72,
+    "tick": 1003,
+    "time": 100.29999999999858,
+    "generation": 1.2654867256637168,
+    "kind": "species_dominant",
+    "text": "Species 'Riamiaar' surpassed Braleiith as dominant with 117 individuals",
+    "severity": 2,
+    "data": {
+      "new_dominant": 16,
+      "old_dominant": 13
+    }
+  }
+]
