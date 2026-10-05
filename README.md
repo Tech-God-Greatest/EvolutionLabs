@@ -128,7 +128,7 @@ Every organism houses a lightweight neural network:
 
 ### Setup
 ```bash
-git clone https://github.com/your-org/digital-evolution-lab.git
+git clone https://github.com/Tech-God-Greatest/EvolutionLabs.git
 cd digital-evolution-lab
 pip install -r requirements.txt
 ```
@@ -148,7 +148,7 @@ pytest -v
 ## 🏛️ Project Structure
 
 ```
-digital-evolution-lab/
+EvolutionLabs/
 ├── main.py                      # Root entry point
 ├── requirements.txt             # Verified dependencies
 ├── config/                      # Simulation configurations
